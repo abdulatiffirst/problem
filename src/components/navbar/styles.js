@@ -8,10 +8,11 @@ ul{
     justify-content: center;
     list-style: none;
     li{
-        
+        padding-top: 30px;
+
         a{
             text-decoration: none;
-            padding: 0 10px;
+            padding: 0 15px;
             color: black;
         }
     }

@@ -31,6 +31,7 @@ function MainPage() {
           <ProductItem />
         </React>
       </Switch>
+      
     </div>
   );
 }

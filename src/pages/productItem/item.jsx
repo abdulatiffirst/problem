@@ -5,6 +5,8 @@ import {products} from "../productPage/homework";
 function ProductItem() {
   const { productIndex } = useParams();
   const product = products[productIndex];
+  console.log(product);
+  console.log(productIndex);
   return (
     <div>
       <p>{product.title}</p>

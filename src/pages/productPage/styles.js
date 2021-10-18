@@ -6,13 +6,13 @@ export const ProductPageWrapper = styled.div`
   font-size: x-large;
 
   overflow: auto;
-  Link {
+  tr {
     
-  
+  }
   td {
     border: 1px solid white;
     padding: 1px;
     color: black;
   }
-}
+
 `;
